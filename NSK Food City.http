@@ -1,0 +1,6 @@
+@NSK_Food_City_HostAddress = http://localhost:5187
+
+GET {{NSK_Food_City_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
